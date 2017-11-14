@@ -1,7 +1,7 @@
 {
   "name": "ek-syntax",
   "theme": "syntax",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An Atom syntax theme originally based on Cobalt2.",
   "repository": "https://github.com/kieckhafer/atom-ek-syntax",
   "license": "MIT",
